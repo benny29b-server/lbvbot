@@ -4,6 +4,7 @@ datetime
 asyncio
 python-time
 configparser
-os
+os-sys
+os-win
 sys
 json
