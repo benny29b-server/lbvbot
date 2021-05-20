@@ -1,0 +1,9 @@
+discord
+sqlite3
+datetime
+asyncio
+time
+configparser
+os
+sys
+json
