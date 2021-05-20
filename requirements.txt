@@ -6,5 +6,4 @@ python-time
 configparser
 os-sys
 os-win
-sys
 json
