@@ -2,7 +2,7 @@ discord
 pysqlite3
 datetime
 asyncio
-time
+python-time
 configparser
 os
 sys
